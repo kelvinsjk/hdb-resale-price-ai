@@ -1,0 +1,905 @@
+block,street,floor,area,year,lease,price,date
+24, Marsiling Dr,01 to 03,"67.00
+New Generation",1977,"53 years
+2 months ","$300,500.00",05/01/23
+15, Marsiling Lane,10 to 12,"65.00
+Improved",1976,"51 years
+9 months ","$315,000.00",05/01/23
+180A, Marsiling Rd,22 to 24,"67.00
+Model A",2015,"91 years
+3 months ","$430,000.00",05/01/23
+693B, Woodlands Ave 6,07 to 09,"68.00
+Model A",2018,"94 years
+5 months ","$445,000.00",05/01/23
+694C, Woodlands Dr 62,07 to 09,"68.00
+Model A",2018,"94 years
+5 months ","$450,000.00",05/01/23
+145, Woodlands St 13,07 to 09,"68.00
+New Generation",1985,"60 years
+11 months ","$362,000.00",05/01/23
+2, Marsiling Dr,01 to 03,"65.00
+Improved",1974,"50 years
+4 months ","$310,000.00",04/01/23
+24, Marsiling Dr,10 to 12,"67.00
+New Generation",1977,"53 years
+3 months ","$320,000.00",04/01/23
+204, Marsiling Dr,04 to 06,"68.00
+New Generation",1981,"57 years
+1 month ","$335,000.00",04/01/23
+206, Marsiling Dr,01 to 03,"68.00
+New Generation",1981,57 years,"$335,000.00",04/01/23
+13, Marsiling Lane,07 to 09,"65.00
+Improved",1976,52 years,"$310,000.00",04/01/23
+180A, Marsiling Rd,07 to 09,"67.00
+Model A",2015,"91 years
+3 months ","$399,128.00",04/01/23
+180A, Marsiling Rd,16 to 18,"66.00
+Model A",2015,"91 years
+3 months ","$422,000.00",04/01/23
+180A, Marsiling Rd,31 to 33,"66.00
+Model A",2015,"91 years
+4 months ","$425,000.00",04/01/23
+180A, Marsiling Rd,28 to 30,"67.00
+Model A",2015,"91 years
+3 months ","$428,000.00",04/01/23
+887B, Woodlands Dr 50,13 to 15,"67.00
+Premium Apartment",2015,"90 years
+10 months ","$488,000.00",04/01/23
+694A, Woodlands Dr 62,10 to 12,"68.00
+Model A",2018,"94 years
+6 months ","$458,000.00",04/01/23
+694C, Woodlands Dr 62,01 to 03,"68.00
+Model A",2018,"94 years
+5 months ","$415,000.00",04/01/23
+694D, Woodlands Dr 62,01 to 03,"68.00
+Model A",2018,"94 years
+6 months ","$420,000.00",04/01/23
+101, Woodlands St 13,04 to 06,"67.00
+New Generation",1985,"61 years
+1 month ","$362,000.00",04/01/23
+149, Woodlands St 13,04 to 06,"68.00
+New Generation",1985,"60 years
+11 months ","$352,000.00",04/01/23
+157, Woodlands St 13,10 to 12,"73.00
+Model A",1985,61 years,"$385,000.00",04/01/23
+158, Woodlands St 13,01 to 03,"73.00
+Model A",1990,"66 years
+2 months ","$372,000.00",04/01/23
+159, Woodlands St 13,04 to 06,"73.00
+Model A",1990,"66 years
+1 month ","$372,000.00",04/01/23
+310, Woodlands St 31,10 to 12,"73.00
+Model A",1993,"69 years
+5 months ","$388,888.00",04/01/23
+311, Woodlands St 31,07 to 09,"73.00
+Model A",1993,"69 years
+6 months ","$375,000.00",04/01/23
+318, Woodlands St 31,01 to 03,"83.00
+Model A",1993,"69 years
+8 months ","$400,000.00",04/01/23
+411, Woodlands St 41,01 to 03,"68.00
+New Generation",1995,"71 years
+5 months ","$358,000.00",04/01/23
+820, Woodlands St 82,01 to 03,"69.00
+New Generation",1995,71 years,"$363,000.00",04/01/23
+2, Marsiling Dr,04 to 06,"65.00
+Improved",1974,"50 years
+4 months ","$315,000.00",03/01/23
+6, Marsiling Dr,04 to 06,"65.00
+Improved",1976,"51 years
+10 months ","$300,000.00",03/01/23
+23, Marsiling Dr,01 to 03,"67.00
+New Generation",1977,"53 years
+8 months ","$308,000.00",03/01/23
+12, Marsiling Lane,10 to 12,"65.00
+Improved",1976,52 years,"$308,000.00",03/01/23
+180A, Marsiling Rd,07 to 09,"66.00
+Model A",2015,"91 years
+4 months ","$390,000.00",03/01/23
+180A, Marsiling Rd,13 to 15,"67.00
+Model A",2015,"91 years
+5 months ","$410,000.00",03/01/23
+693C, Woodlands Ave 6,04 to 06,"68.00
+Model A",2018,"94 years
+6 months ","$430,000.00",03/01/23
+693C, Woodlands Ave 6,10 to 12,"68.00
+Model A",2018,"94 years
+7 months ","$452,000.00",03/01/23
+782D, Woodlands Cres,13 to 15,"67.00
+Model A",2015,"91 years
+3 months ","$425,000.00",03/01/23
+573C, Woodlands Dr 16,04 to 06,"68.00
+Model A",2018,"94 years
+4 months ","$418,000.00",03/01/23
+573C, Woodlands Dr 16,07 to 09,"68.00
+Model A",2018,"94 years
+4 months ","$423,000.00",03/01/23
+573C, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+4 months ","$445,500.00",03/01/23
+574B, Woodlands Dr 16,04 to 06,"68.00
+Model A",2018,"94 years
+3 months ","$433,000.00",03/01/23
+694A, Woodlands Dr 62,07 to 09,"68.00
+Model A",2018,"94 years
+6 months ","$450,000.00",03/01/23
+694D, Woodlands Dr 62,04 to 06,"68.00
+Model A",2018,"94 years
+7 months ","$434,000.00",03/01/23
+717A, Woodlands Dr 70,01 to 03,"71.00
+Model A",2017,"93 years
+10 months ","$428,000.00",03/01/23
+717B, Woodlands Dr 70,10 to 12,"71.00
+Model A",2017,"93 years
+9 months ","$490,000.00",03/01/23
+146, Woodlands St 13,07 to 09,"68.00
+New Generation",1985,61 years,"$370,000.00",03/01/23
+159, Woodlands St 13,07 to 09,"73.00
+Model A",1990,"66 years
+3 months ","$390,000.00",03/01/23
+166, Woodlands St 13,01 to 03,"67.00
+New Generation",1986,"62 years
+6 months ","$325,000.00",03/01/23
+302A, Woodlands St 31,10 to 12,"67.00
+Model A",2016,"92 years
+7 months ","$455,000.00",03/01/23
+310, Woodlands St 31,10 to 12,"73.00
+Model A",1993,"69 years
+6 months ","$382,000.00",03/01/23
+311, Woodlands St 31,07 to 09,"73.00
+Model A",1993,"69 years
+7 months ","$410,000.00",03/01/23
+313, Woodlands St 31,07 to 09,"73.00
+Model A",1993,"69 years
+8 months ","$403,000.00",03/01/23
+316, Woodlands St 31,04 to 06,"73.00
+Model A",1993,"69 years
+1 month ","$380,000.00",03/01/23
+818, Woodlands St 82,01 to 03,"69.00
+New Generation",1994,"70 years
+10 months ","$360,000.00",03/01/23
+24, Marsiling Dr,10 to 12,"67.00
+New Generation",1977,"53 years
+6 months ","$300,000.00",02/01/23
+24, Marsiling Dr,04 to 06,"82.00
+New Generation",1977,"53 years
+4 months ","$385,000.00",02/01/23
+30, Marsiling Dr,10 to 12,"73.00
+New Generation",1977,"53 years
+3 months ","$315,000.00",02/01/23
+31, Marsiling Dr,07 to 09,"73.00
+New Generation",1977,"53 years
+4 months ","$350,000.00",02/01/23
+12, Marsiling Lane,01 to 03,"65.00
+Improved",1976,"52 years
+2 months ","$300,000.00",02/01/23
+19, Marsiling Lane,01 to 03,"60.00
+Improved",1987,"63 years
+3 months ","$318,000.00",02/01/23
+180B, Marsiling Rd,10 to 12,"66.00
+Model A",2015,"91 years
+6 months ","$395,000.00",02/01/23
+180B, Marsiling Rd,16 to 18,"67.00
+Model A",2015,"91 years
+6 months ","$405,000.00",02/01/23
+782D, Woodlands Cres,10 to 12,"67.00
+Model A",2015,"91 years
+4 months ","$395,000.00",02/01/23
+574A, Woodlands Dr 16,07 to 09,"68.00
+Model A",2018,"94 years
+5 months ","$455,000.00",02/01/23
+574B, Woodlands Dr 16,01 to 03,"68.00
+Model A",2018,"94 years
+6 months ","$415,000.00",02/01/23
+574B, Woodlands Dr 16,13 to 15,"68.00
+Model A",2018,"94 years
+5 months ","$464,000.00",02/01/23
+886D, Woodlands Dr 50,13 to 15,"67.00
+Premium Apartment",2015,"91 years
+2 months ","$435,000.00",02/01/23
+694B, Woodlands Dr 62,01 to 03,"68.00
+Model A",2018,"94 years
+8 months ","$425,000.00",02/01/23
+694B, Woodlands Dr 62,10 to 12,"68.00
+Model A",2018,"94 years
+8 months ","$447,000.00",02/01/23
+784B, Woodlands Rise,04 to 06,"68.00
+Model A",2018,"94 years
+5 months ","$420,000.00",02/01/23
+101, Woodlands St 13,04 to 06,"67.00
+New Generation",1985,"61 years
+3 months ","$350,000.00",02/01/23
+148, Woodlands St 13,04 to 06,"68.00
+New Generation",1985,"61 years
+2 months ","$357,000.00",02/01/23
+149, Woodlands St 13,10 to 12,"68.00
+New Generation",1985,"61 years
+2 months ","$367,000.00",02/01/23
+152, Woodlands St 13,04 to 06,"73.00
+Model A",1985,"61 years
+2 months ","$364,000.00",02/01/23
+157, Woodlands St 13,04 to 06,"73.00
+Model A",1985,"61 years
+1 month ","$368,000.00",02/01/23
+161, Woodlands St 13,10 to 12,"73.00
+Model A",1990,"66 years
+3 months ","$408,000.00",02/01/23
+302A, Woodlands St 31,01 to 03,"67.00
+Model A",2016,"92 years
+9 months ","$435,000.00",02/01/23
+310, Woodlands St 31,10 to 12,"73.00
+Model A",1993,"69 years
+8 months ","$375,000.00",02/01/23
+317, Woodlands St 31,01 to 03,"73.00
+Model A",1993,"69 years
+4 months ","$360,000.00",02/01/23
+834, Woodlands St 83,01 to 03,"73.00
+Model A",1994,"70 years
+3 months ","$380,000.00",02/01/23
+2, Marsiling Dr,01 to 03,"65.00
+Improved",1974,"50 years
+7 months ","$312,000.00",01/01/23
+6, Marsiling Dr,13 to 15,"65.00
+Improved",1976,"52 years
+1 month ","$330,000.00",01/01/23
+24, Marsiling Dr,04 to 06,"67.00
+New Generation",1977,"53 years
+6 months ","$298,000.00",01/01/23
+30, Marsiling Dr,07 to 09,"73.00
+New Generation",1977,"53 years
+4 months ","$349,000.00",01/01/23
+202, Marsiling Dr,07 to 09,"68.00
+New Generation",1981,"57 years
+6 months ","$320,000.00",01/01/23
+204, Marsiling Dr,07 to 09,"68.00
+New Generation",1981,"57 years
+4 months ","$325,000.00",01/01/23
+206, Marsiling Dr,10 to 12,"68.00
+New Generation",1981,"57 years
+5 months ","$325,000.00",01/01/23
+12, Marsiling Lane,07 to 09,"65.00
+Improved",1976,"52 years
+3 months ","$310,000.00",01/01/23
+13, Marsiling Lane,13 to 15,"76.00
+Improved",1976,"52 years
+3 months ","$348,888.00",01/01/23
+180A, Marsiling Rd,04 to 06,"67.00
+Model A",2015,"91 years
+7 months ","$390,000.00",01/01/23
+125, Marsiling Rise,01 to 03,"60.00
+Improved",1985,"61 years
+1 month ","$315,000.00",01/01/23
+570A, Woodlands Ave 1,01 to 03,"67.00
+Model A",2013,"89 years
+11 months ","$395,000.00",01/01/23
+571C, Woodlands Ave 1,10 to 12,"67.00
+Model A",2013,"89 years
+11 months ","$408,000.00",01/01/23
+693A, Woodlands Ave 6,01 to 03,"68.00
+Model A",2018,"94 years
+10 months ","$410,000.00",01/01/23
+693A, Woodlands Ave 6,01 to 03,"68.00
+Model A",2018,"94 years
+9 months ","$418,000.00",01/01/23
+693A, Woodlands Ave 6,01 to 03,"68.00
+Model A",2018,"94 years
+9 months ","$420,000.00",01/01/23
+693A, Woodlands Ave 6,01 to 03,"68.00
+Model A",2018,"94 years
+9 months ","$426,888.00",01/01/23
+693A, Woodlands Ave 6,04 to 06,"68.00
+Model A",2018,"94 years
+9 months ","$430,000.00",01/01/23
+693B, Woodlands Ave 6,10 to 12,"68.00
+Model A",2018,"94 years
+9 months ","$435,000.00",01/01/23
+693C, Woodlands Ave 6,07 to 09,"68.00
+Model A",2018,"94 years
+9 months ","$428,000.00",01/01/23
+574B, Woodlands Dr 16,01 to 03,"68.00
+Model A",2018,"94 years
+6 months ","$400,000.00",01/01/23
+574B, Woodlands Dr 16,01 to 03,"68.00
+Model A",2018,"94 years
+6 months ","$410,000.00",01/01/23
+887B, Woodlands Dr 50,01 to 03,"67.00
+Premium Apartment",2015,"91 years
+2 months ","$400,000.00",01/01/23
+694A, Woodlands Dr 62,04 to 06,"68.00
+Model A",2018,"94 years
+10 months ","$425,000.00",01/01/23
+694A, Woodlands Dr 62,10 to 12,"68.00
+Model A",2018,"94 years
+9 months ","$448,000.00",01/01/23
+784B, Woodlands Rise,01 to 03,"68.00
+Model A",2018,"94 years
+7 months ","$405,000.00",01/01/23
+148, Woodlands St 13,07 to 09,"68.00
+New Generation",1985,"61 years
+3 months ","$345,000.00",01/01/23
+149, Woodlands St 13,04 to 06,"68.00
+New Generation",1985,"61 years
+3 months ","$345,000.00",01/01/23
+319, Woodlands St 31,04 to 06,"73.00
+Model A",1993,"69 years
+4 months ","$380,000.00",01/01/23
+849, Woodlands St 82,01 to 03,"69.00
+New Generation",1995,"71 years
+6 months ","$365,088.00",01/01/23
+22, Marsiling Dr,07 to 09,"67.00
+New Generation",1977,"53 years
+7 months ","$300,000.00",12/01/22
+23, Marsiling Dr,04 to 06,"67.00
+New Generation",1977,54 years,"$307,000.00",12/01/22
+32, Marsiling Dr,13 to 15,"73.00
+New Generation",1980,"56 years
+2 months ","$338,000.00",12/01/22
+206, Marsiling Dr,01 to 03,"68.00
+New Generation",1981,"57 years
+6 months ","$300,000.00",12/01/22
+12, Marsiling Lane,10 to 12,"65.00
+Improved",1976,"52 years
+5 months ","$305,000.00",12/01/22
+12A, Marsiling Lane,25 to 27,"67.00
+Model A",2013,"89 years
+7 months ","$422,888.00",12/01/22
+15, Marsiling Lane,10 to 12,"65.00
+Improved",1976,"52 years
+2 months ","$285,000.00",12/01/22
+15, Marsiling Lane,07 to 09,"65.00
+Improved",1976,"52 years
+2 months ","$302,000.00",12/01/22
+131, Marsiling Rise,01 to 03,"60.00
+Improved",1985,"61 years
+2 months ","$295,000.00",12/01/22
+131, Marsiling Rise,04 to 06,"60.00
+Improved",1985,"61 years
+2 months ","$320,000.00",12/01/22
+570B, Woodlands Ave 1,04 to 06,"67.00
+Model A",2013,"90 years
+1 month ","$400,000.00",12/01/22
+570B, Woodlands Ave 1,10 to 12,"67.00
+Model A",2013,90 years,"$440,000.00",12/01/22
+571C, Woodlands Ave 1,10 to 12,"67.00
+Model A",2013,90 years,"$420,000.00",12/01/22
+693A, Woodlands Ave 6,04 to 06,"68.00
+Model A",2018,"94 years
+10 months ","$425,000.00",12/01/22
+693A, Woodlands Ave 6,07 to 09,"68.00
+Model A",2018,"94 years
+10 months ","$450,000.00",12/01/22
+693A, Woodlands Ave 6,10 to 12,"68.00
+Model A",2018,"94 years
+10 months ","$462,000.00",12/01/22
+693B, Woodlands Ave 6,01 to 03,"68.00
+Model A",2018,"94 years
+10 months ","$417,000.00",12/01/22
+780A, Woodlands Cres,10 to 12,"67.00
+Model A",2015,"91 years
+9 months ","$415,000.00",12/01/22
+780B, Woodlands Cres,10 to 12,"67.00
+Model A",2015,"91 years
+8 months ","$417,000.00",12/01/22
+780F, Woodlands Cres,10 to 12,"67.00
+Model A",2015,"91 years
+8 months ","$415,000.00",12/01/22
+573A, Woodlands Dr 16,07 to 09,"68.00
+Model A",2018,"94 years
+8 months ","$430,000.00",12/01/22
+573B, Woodlands Dr 16,01 to 03,"68.00
+Model A",2018,"94 years
+7 months ","$375,000.00",12/01/22
+573B, Woodlands Dr 16,01 to 03,"68.00
+Model A",2018,"94 years
+8 months ","$415,000.00",12/01/22
+573C, Woodlands Dr 16,04 to 06,"68.00
+Model A",2018,"94 years
+8 months ","$428,000.00",12/01/22
+573C, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+8 months ","$430,000.00",12/01/22
+574B, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+7 months ","$461,688.00",12/01/22
+887B, Woodlands Dr 50,01 to 03,"67.00
+Premium Apartment",2015,"91 years
+3 months ","$410,000.00",12/01/22
+887C, Woodlands Dr 50,13 to 15,"67.00
+Premium Apartment",2015,"91 years
+3 months ","$430,000.00",12/01/22
+694A, Woodlands Dr 62,10 to 12,"68.00
+Model A",2018,"94 years
+10 months ","$470,000.00",12/01/22
+694C, Woodlands Dr 62,13 to 15,"68.00
+Model A",2018,"94 years
+10 months ","$434,000.00",12/01/22
+784B, Woodlands Rise,13 to 15,"68.00
+Model A",2018,"94 years
+9 months ","$445,000.00",12/01/22
+784C, Woodlands Rise,04 to 06,"68.00
+Model A",2018,"94 years
+8 months ","$410,000.00",12/01/22
+784C, Woodlands Rise,07 to 09,"68.00
+Model A",2018,"94 years
+8 months ","$413,000.00",12/01/22
+784C, Woodlands Rise,10 to 12,"68.00
+Model A",2018,"94 years
+9 months ","$430,000.00",12/01/22
+102, Woodlands St 13,10 to 12,"67.00
+New Generation",1985,"61 years
+5 months ","$358,000.00",12/01/22
+145, Woodlands St 13,04 to 06,"68.00
+New Generation",1985,"61 years
+4 months ","$358,000.00",12/01/22
+149, Woodlands St 13,04 to 06,"68.00
+New Generation",1985,"61 years
+4 months ","$348,000.00",12/01/22
+155, Woodlands St 13,07 to 09,"73.00
+Model A",1985,"61 years
+4 months ","$368,000.00",12/01/22
+155, Woodlands St 13,04 to 06,"73.00
+Model A",1985,"61 years
+4 months ","$395,000.00",12/01/22
+161, Woodlands St 13,04 to 06,"73.00
+Model A",1990,"66 years
+5 months ","$370,000.00",12/01/22
+302A, Woodlands St 31,25 to 27,"67.00
+Model A",2016,"92 years
+11 months ","$460,000.00",12/01/22
+313, Woodlands St 31,04 to 06,"73.00
+Model A",1993,"69 years
+10 months ","$377,000.00",12/01/22
+24, Marsiling Dr,01 to 03,"67.00
+New Generation",1977,"53 years
+8 months ","$302,000.00",11/01/22
+202, Marsiling Dr,07 to 09,"68.00
+New Generation",1981,"57 years
+8 months ","$315,000.00",11/01/22
+204, Marsiling Dr,07 to 09,"68.00
+New Generation",1981,"57 years
+6 months ","$345,000.00",11/01/22
+206, Marsiling Dr,10 to 12,"68.00
+New Generation",1981,"57 years
+6 months ","$328,000.00",11/01/22
+12, Marsiling Lane,10 to 12,"76.00
+Improved",1976,"52 years
+5 months ","$362,000.00",11/01/22
+12A, Marsiling Lane,13 to 15,"67.00
+Model A",2013,"89 years
+8 months ","$421,000.00",11/01/22
+15, Marsiling Lane,10 to 12,"65.00
+Improved",1976,"52 years
+4 months ","$300,000.00",11/01/22
+18, Marsiling Lane,01 to 03,"73.00
+Improved",1987,"63 years
+7 months ","$305,000.00",11/01/22
+19, Marsiling Lane,01 to 03,"60.00
+Improved",1987,"63 years
+7 months ","$310,000.00",11/01/22
+129, Marsiling Rise,01 to 03,"69.00
+Improved",1985,"61 years
+3 months ","$298,000.00",11/01/22
+129, Marsiling Rise,04 to 06,"60.00
+Improved",1985,"61 years
+3 months ","$310,000.00",11/01/22
+130, Marsiling Rise,10 to 12,"69.00
+Improved",1985,"61 years
+3 months ","$340,000.00",11/01/22
+131, Marsiling Rise,07 to 09,"60.00
+Improved",1985,"61 years
+4 months ","$310,000.00",11/01/22
+693A, Woodlands Ave 6,07 to 09,"68.00
+Model A",2018,95 years,"$420,000.00",11/01/22
+573A, Woodlands Dr 16,07 to 09,"68.00
+Model A",2018,"94 years
+9 months ","$423,000.00",11/01/22
+573C, Woodlands Dr 16,07 to 09,"68.00
+Model A",2018,"94 years
+9 months ","$408,000.00",11/01/22
+574B, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+8 months ","$446,888.00",11/01/22
+574B, Woodlands Dr 16,04 to 06,"68.00
+Model A",2018,"94 years
+8 months ","$448,000.00",11/01/22
+886A, Woodlands Dr 50,01 to 03,"67.00
+Premium Apartment",2015,"91 years
+4 months ","$395,000.00",11/01/22
+887B, Woodlands Dr 50,07 to 09,"67.00
+Premium Apartment",2015,"91 years
+4 months ","$407,000.00",11/01/22
+694A, Woodlands Dr 62,01 to 03,"68.00
+Model A",2018,"94 years
+11 months ","$400,000.00",11/01/22
+694A, Woodlands Dr 62,04 to 06,"68.00
+Model A",2018,"94 years
+11 months ","$440,000.00",11/01/22
+784B, Woodlands Rise,10 to 12,"68.00
+Model A",2018,"94 years
+9 months ","$416,000.00",11/01/22
+784C, Woodlands Rise,01 to 03,"68.00
+Model A",2018,"94 years
+9 months ","$380,000.00",11/01/22
+149, Woodlands St 13,04 to 06,"68.00
+New Generation",1985,"61 years
+5 months ","$366,000.00",11/01/22
+151, Woodlands St 13,04 to 06,"73.00
+Model A",1985,"61 years
+5 months ","$352,000.00",11/01/22
+155, Woodlands St 13,04 to 06,"73.00
+Model A",1985,"61 years
+5 months ","$345,000.00",11/01/22
+157, Woodlands St 13,10 to 12,"73.00
+Model A",1985,"61 years
+5 months ","$350,000.00",11/01/22
+314, Woodlands St 31,10 to 12,"73.00
+Model A",1993,"69 years
+11 months ","$390,888.00",11/01/22
+316, Woodlands St 31,01 to 03,"73.00
+Model A",1993,"69 years
+7 months ","$357,500.00",11/01/22
+31, Marsiling Dr,04 to 06,"73.00
+New Generation",1977,"53 years
+8 months ","$308,000.00",10/01/22
+202, Marsiling Dr,10 to 12,"68.00
+New Generation",1981,"57 years
+9 months ","$288,000.00",10/01/22
+17, Marsiling Lane,10 to 12,"75.00
+Improved",1984,"61 years
+1 month ","$330,000.00",10/01/22
+129, Marsiling Rise,04 to 06,"69.00
+Improved",1985,"61 years
+4 months ","$345,000.00",10/01/22
+693A, Woodlands Ave 6,01 to 03,"68.00
+Model A",2018,95 years,"$410,000.00",10/01/22
+573B, Woodlands Dr 16,04 to 06,"68.00
+Model A",2018,"94 years
+9 months ","$415,000.00",10/01/22
+573B, Woodlands Dr 16,04 to 06,"68.00
+Model A",2018,"94 years
+9 months ","$425,000.00",10/01/22
+573C, Woodlands Dr 16,01 to 03,"68.00
+Model A",2018,"94 years
+9 months ","$410,000.00",10/01/22
+574B, Woodlands Dr 16,04 to 06,"68.00
+Model A",2018,"94 years
+9 months ","$420,000.00",10/01/22
+574B, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+9 months ","$445,000.00",10/01/22
+784B, Woodlands Rise,10 to 12,"68.00
+Model A",2018,"94 years
+10 months ","$410,000.00",10/01/22
+101, Woodlands St 13,04 to 06,"67.00
+New Generation",1985,"61 years
+7 months ","$348,000.00",10/01/22
+151, Woodlands St 13,10 to 12,"73.00
+Model A",1985,"61 years
+6 months ","$380,000.00",10/01/22
+158, Woodlands St 13,04 to 06,"73.00
+Model A",1990,"66 years
+8 months ","$370,000.00",10/01/22
+302A, Woodlands St 31,04 to 06,"67.00
+Model A",2016,"93 years
+1 month ","$448,000.00",10/01/22
+419, Woodlands St 41,01 to 03,"68.00
+New Generation",1995,"72 years
+1 month ","$365,000.00",10/01/22
+1, Marsiling Dr,10 to 12,"65.00
+Improved",1974,"50 years
+11 months ","$288,000.00",09/01/22
+2, Marsiling Dr,10 to 12,"65.00
+Improved",1974,"50 years
+11 months ","$315,000.00",09/01/22
+23, Marsiling Dr,04 to 06,"67.00
+New Generation",1977,"54 years
+3 months ","$305,000.00",09/01/22
+23, Marsiling Dr,04 to 06,"67.00
+New Generation",1977,"54 years
+3 months ","$315,000.00",09/01/22
+32, Marsiling Dr,04 to 06,"73.00
+New Generation",1980,"56 years
+5 months ","$318,000.00",09/01/22
+206, Marsiling Dr,04 to 06,"68.00
+New Generation",1981,"57 years
+8 months ","$308,888.00",09/01/22
+13, Marsiling Lane,10 to 12,"76.00
+Improved",1976,"52 years
+7 months ","$330,000.00",09/01/22
+15, Marsiling Lane,01 to 03,"65.00
+Improved",1976,"52 years
+4 months ","$280,000.00",09/01/22
+15, Marsiling Lane,13 to 15,"65.00
+Improved",1976,"52 years
+5 months ","$290,000.00",09/01/22
+17, Marsiling Lane,10 to 12,"75.00
+Improved",1984,"61 years
+3 months ","$350,000.00",09/01/22
+129, Marsiling Rise,10 to 12,"69.00
+Improved",1985,"61 years
+5 months ","$328,000.00",09/01/22
+131, Marsiling Rise,04 to 06,"69.00
+Improved",1985,"61 years
+5 months ","$326,000.00",09/01/22
+131, Marsiling Rise,07 to 09,"60.00
+Improved",1985,"61 years
+4 months ","$335,000.00",09/01/22
+132, Marsiling Rise,04 to 06,"82.00
+New Generation",1995,"71 years
+8 months ","$350,000.00",09/01/22
+780F, Woodlands Cres,13 to 15,"67.00
+Model A",2015,"91 years
+11 months ","$398,500.00",09/01/22
+573A, Woodlands Dr 16,07 to 09,"68.00
+Model A",2018,"94 years
+10 months ","$435,000.00",09/01/22
+574A, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+10 months ","$445,000.00",09/01/22
+574B, Woodlands Dr 16,13 to 15,"68.00
+Model A",2018,"94 years
+10 months ","$470,000.00",09/01/22
+784B, Woodlands Rise,01 to 03,"68.00
+Model A",2018,"94 years
+11 months ","$398,000.00",09/01/22
+784B, Woodlands Rise,01 to 03,"68.00
+Model A",2018,"94 years
+11 months ","$410,000.00",09/01/22
+784C, Woodlands Rise,07 to 09,"68.00
+Model A",2018,"94 years
+11 months ","$415,000.00",09/01/22
+785B, Woodlands Rise,01 to 03,"68.00
+Model A",2018,"94 years
+11 months ","$405,000.00",09/01/22
+160, Woodlands St 13,07 to 09,"73.00
+Model A",1990,"66 years
+9 months ","$380,000.00",09/01/22
+313, Woodlands St 31,01 to 03,"73.00
+Model A",1993,"70 years
+1 month ","$340,000.00",09/01/22
+1, Marsiling Dr,04 to 06,"65.00
+Improved",1974,51 years,"$280,000.00",08/01/22
+6, Marsiling Dr,10 to 12,"76.00
+Improved",1976,"52 years
+6 months ","$340,000.00",08/01/22
+22, Marsiling Dr,01 to 03,"67.00
+New Generation",1977,"53 years
+11 months ","$285,000.00",08/01/22
+23, Marsiling Dr,01 to 03,"67.00
+New Generation",1977,"54 years
+4 months ","$290,000.00",08/01/22
+24, Marsiling Dr,07 to 09,"67.00
+New Generation",1977,"53 years
+11 months ","$298,000.00",08/01/22
+30, Marsiling Dr,04 to 06,"87.00
+New Generation",1977,"53 years
+9 months ","$345,000.00",08/01/22
+204, Marsiling Dr,01 to 03,"68.00
+New Generation",1981,"57 years
+9 months ","$310,000.00",08/01/22
+204, Marsiling Dr,07 to 09,"68.00
+New Generation",1981,"57 years
+9 months ","$324,000.00",08/01/22
+206, Marsiling Dr,07 to 09,"68.00
+New Generation",1981,"57 years
+9 months ","$318,888.00",08/01/22
+180A, Marsiling Rd,22 to 24,"66.00
+Model A",2015,92 years,"$415,000.00",08/01/22
+125, Marsiling Rise,01 to 03,"69.00
+Improved",1985,"61 years
+5 months ","$328,000.00",08/01/22
+573A, Woodlands Dr 16,07 to 09,"68.00
+Model A",2018,"94 years
+11 months ","$410,000.00",08/01/22
+574A, Woodlands Dr 16,01 to 03,"68.00
+Model A",2018,"94 years
+11 months ","$410,000.00",08/01/22
+574A, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+11 months ","$435,000.00",08/01/22
+574B, Woodlands Dr 16,01 to 03,"68.00
+Model A",2018,"94 years
+11 months ","$415,000.00",08/01/22
+574B, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+11 months ","$435,000.00",08/01/22
+574B, Woodlands Dr 16,10 to 12,"68.00
+Model A",2018,"94 years
+11 months ","$450,000.00",08/01/22
+886A, Woodlands Dr 50,07 to 09,"67.00
+Premium Apartment",2015,"91 years
+7 months ","$410,000.00",08/01/22
+784B, Woodlands Rise,04 to 06,"68.00
+Model A",2018,"94 years
+11 months ","$412,000.00",08/01/22
+784C, Woodlands Rise,07 to 09,"68.00
+Model A",2018,95 years,"$425,000.00",08/01/22
+111, Woodlands St 13,01 to 03,"68.00
+New Generation",1995,"71 years
+6 months ","$325,000.00",08/01/22
+145, Woodlands St 13,07 to 09,"68.00
+New Generation",1985,"61 years
+8 months ","$348,000.00",08/01/22
+155, Woodlands St 13,07 to 09,"73.00
+Model A",1985,"61 years
+8 months ","$380,000.00",08/01/22
+166, Woodlands St 13,01 to 03,"82.00
+New Generation",1986,"63 years
+3 months ","$382,000.00",08/01/22
+316, Woodlands St 31,07 to 09,"73.00
+Model A",1993,"69 years
+10 months ","$360,000.00",08/01/22
+848, Woodlands St 82,01 to 03,"69.00
+New Generation",1995,"71 years
+8 months ","$335,000.00",08/01/22
+1, Marsiling Dr,04 to 06,"65.00
+Improved",1974,51 years,"$295,000.00",07/01/22
+2, Marsiling Dr,10 to 12,"65.00
+Improved",1974,"51 years
+1 month ","$310,000.00",07/01/22
+22, Marsiling Dr,07 to 09,"67.00
+New Generation",1977,54 years,"$298,000.00",07/01/22
+23, Marsiling Dr,07 to 09,"82.00
+New Generation",1977,"54 years
+4 months ","$350,000.00",07/01/22
+13, Marsiling Lane,07 to 09,"76.00
+Improved",1976,"52 years
+9 months ","$333,000.00",07/01/22
+15, Marsiling Lane,01 to 03,"65.00
+Improved",1976,"52 years
+7 months ","$300,000.00",07/01/22
+17, Marsiling Lane,04 to 06,"65.00
+Improved",1984,"61 years
+5 months ","$305,000.00",07/01/22
+180B, Marsiling Rd,01 to 03,"67.00
+Model A",2015,"92 years
+1 month ","$379,000.00",07/01/22
+130, Marsiling Rise,04 to 06,"60.00
+Improved",1985,"61 years
+7 months ","$300,000.00",07/01/22
+131, Marsiling Rise,04 to 06,"60.00
+Improved",1985,"61 years
+7 months ","$285,000.00",07/01/22
+131, Marsiling Rise,04 to 06,"69.00
+Improved",1985,"61 years
+7 months ","$320,000.00",07/01/22
+570A, Woodlands Ave 1,10 to 12,"67.00
+Model A",2013,"90 years
+5 months ","$428,000.00",07/01/22
+570B, Woodlands Ave 1,01 to 03,"67.00
+Model A",2013,"90 years
+5 months ","$365,000.00",07/01/22
+780A, Woodlands Cres,07 to 09,"67.00
+Model A",2015,92 years,"$380,000.00",07/01/22
+780B, Woodlands Cres,13 to 15,"67.00
+Model A",2015,"92 years
+1 month ","$420,000.00",07/01/22
+780C, Woodlands Cres,10 to 12,"67.00
+Model A",2015,"92 years
+1 month ","$420,000.00",07/01/22
+101, Woodlands St 13,04 to 06,"67.00
+New Generation",1985,"61 years
+11 months ","$370,000.00",07/01/22
+1, Marsiling Dr,04 to 06,"65.00
+Improved",1974,"51 years
+2 months ","$315,000.00",06/01/22
+2, Marsiling Dr,07 to 09,"65.00
+Improved",1974,"51 years
+2 months ","$300,000.00",06/01/22
+6, Marsiling Dr,13 to 15,"65.00
+Improved",1976,"52 years
+8 months ","$305,000.00",06/01/22
+24, Marsiling Dr,13 to 15,"67.00
+New Generation",1977,"54 years
+1 month ","$295,000.00",06/01/22
+24, Marsiling Dr,13 to 15,"82.00
+New Generation",1977,"54 years
+1 month ","$337,000.00",06/01/22
+15, Marsiling Lane,04 to 06,"65.00
+Improved",1976,"52 years
+8 months ","$277,000.00",06/01/22
+19, Marsiling Lane,04 to 06,"71.00
+Improved",1987,"63 years
+11 months ","$320,000.00",06/01/22
+180B, Marsiling Rd,28 to 30,"67.00
+Model A",2015,"92 years
+2 months ","$440,000.00",06/01/22
+571C, Woodlands Ave 1,10 to 12,"67.00
+Model A",2013,"90 years
+6 months ","$385,000.00",06/01/22
+780A, Woodlands Cres,13 to 15,"67.00
+Model A",2015,"92 years
+2 months ","$395,000.00",06/01/22
+886B, Woodlands Dr 50,04 to 06,"67.00
+Premium Apartment",2015,"91 years
+9 months ","$418,888.00",06/01/22
+886D, Woodlands Dr 50,13 to 15,"67.00
+Premium Apartment",2015,"91 years
+9 months ","$427,000.00",06/01/22
+784C, Woodlands Rise,04 to 06,"68.00
+Model A",2018,"95 years
+2 months ","$410,000.00",06/01/22
+785B, Woodlands Rise,07 to 09,"68.00
+Model A",2018,"95 years
+2 months ","$400,000.00",06/01/22
+145, Woodlands St 13,04 to 06,"68.00
+New Generation",1985,"61 years
+10 months ","$350,000.00",06/01/22
+148, Woodlands St 13,07 to 09,"68.00
+New Generation",1985,"61 years
+10 months ","$328,000.00",06/01/22
+152, Woodlands St 13,10 to 12,"73.00
+Model A",1985,"61 years
+10 months ","$310,000.00",06/01/22
+152, Woodlands St 13,10 to 12,"73.00
+Model A",1985,"61 years
+10 months ","$355,000.00",06/01/22
+302A, Woodlands St 31,31 to 33,"67.00
+Model A",2016,"93 years
+5 months ","$490,000.00",06/01/22
+319, Woodlands St 31,01 to 03,"73.00
+Model A",1993,"69 years
+11 months ","$360,000.00",06/01/22
+212, Marsiling Cres,04 to 06,"74.00
+Model A",1983,"59 years
+9 months ","$265,000.00",05/01/22
+1, Marsiling Dr,04 to 06,"65.00
+Improved",1974,"51 years
+3 months ","$265,000.00",05/01/22
+1, Marsiling Dr,04 to 06,"65.00
+Improved",1974,"51 years
+2 months ","$304,000.00",05/01/22
+6, Marsiling Dr,01 to 03,"65.00
+Improved",1976,"52 years
+9 months ","$280,000.00",05/01/22
+23, Marsiling Dr,04 to 06,"67.00
+New Generation",1977,"54 years
+7 months ","$305,000.00",05/01/22
+24, Marsiling Dr,04 to 06,"67.00
+New Generation",1977,"54 years
+2 months ","$283,000.00",05/01/22
+24, Marsiling Dr,10 to 12,"67.00
+New Generation",1977,"54 years
+2 months ","$290,000.00",05/01/22
+24, Marsiling Dr,10 to 12,"67.00
+New Generation",1977,"54 years
+2 months ","$310,000.00",05/01/22
+24, Marsiling Dr,13 to 15,"82.00
+New Generation",1977,"54 years
+2 months ","$330,000.00",05/01/22
+32, Marsiling Dr,07 to 09,"88.00
+New Generation",1980,"56 years
+8 months ","$353,000.00",05/01/22
+204, Marsiling Dr,13 to 15,"68.00
+New Generation",1981,"57 years
+11 months ","$316,000.00",05/01/22
+17, Marsiling Lane,10 to 12,"75.00
+Improved",1984,"61 years
+7 months ","$290,000.00",05/01/22
+180B, Marsiling Rd,04 to 06,"66.00
+Model A",2015,"92 years
+3 months ","$365,000.00",05/01/22
+129, Marsiling Rise,01 to 03,"60.00
+Improved",1985,"61 years
+8 months ","$248,888.00",05/01/22
+570A, Woodlands Ave 1,13 to 15,"67.00
+Model A",2013,"90 years
+7 months ","$420,000.00",05/01/22
+780B, Woodlands Cres,04 to 06,"67.00
+Model A",2015,"92 years
+3 months ","$390,000.00",05/01/22
+782C, Woodlands Cres,07 to 09,"67.00
+Model A",2015,"92 years
+2 months ","$395,000.00",05/01/22
+886A, Woodlands Dr 50,13 to 15,"67.00
+Premium Apartment",2015,"91 years
+9 months ","$420,000.00",05/01/22
+717A, Woodlands Dr 70,04 to 06,"71.00
+Model A",2017,"94 years
+8 months ","$420,000.00",05/01/22
+785B, Woodlands Rise,07 to 09,"68.00
+Model A",2018,"95 years
+3 months ","$400,000.00",05/01/22
+158, Woodlands St 13,04 to 06,"73.00
+Model A",1990,"67 years
+1 month ","$358,000.00",05/01/22
